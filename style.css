@@ -1,0 +1,128 @@
+*{
+
+}
+body{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#wrapper{
+    background-color: #331906;
+    height: 940px;
+    width: 870px;
+}
+
+#header{
+    background-color: silver;
+    height: 60px;
+    width: 870px;
+  
+}
+
+.footer{
+    background-color: silver;
+    height: 60px;
+    width: 870px;
+    n: center;
+}
+
+
+.sidetitle{
+    font-weight: bold;
+    font-size: 18px;
+    padding-left: 260px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+.name{
+    font-weight: bold;
+    font-size: 31px;
+    padding: 13px;
+    display: inline-block;
+    width: 245px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.maincontent img{
+    display: inline-block;
+    width: 408px;
+    height: 260px;
+    border: solid silver 5px;
+}
+
+.maincontent {
+    display: inline-block;
+    width: 408px;
+    height: 270px;
+    background-color: whitesmoke;
+    vertical-align: top;
+    margin: 10px ;
+    
+}
+
+.titles{
+    height: 17px;
+    background: linear-gradient(white, rgb(116, 114, 114));
+    padding: 12px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.techone{
+    height: 17px;
+    background: linear-gradient(white, rgb(116, 114, 114));
+    padding: 12px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 70px;
+
+}
+.techtwo{
+    height: 17px;
+    background: linear-gradient(white, rgb(116, 114, 114));
+    padding: 12px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 40px;
+
+}
+
+.subcontents{
+    display: inline-block;
+    width: 265px;
+    background-color: pink; 
+    vertical-align: top;
+    margin: 10px;
+    height: 580px;
+}
+
+.subcontents img{
+    width: 265px;
+    height: 165px;
+}
+
+p{
+    margin: 10px;
+    text-align: justify;
+}
+
+.techicons img{
+    margin: 8px 0px 7px 7px;
+    width: 40px;
+    height:40px;
+    display: inline-block;
+}
+
+input[type=submit]{
+    background-color: green;
+    border-radius: 5px;
+    border: black 2px solid;
+    padding: 5px 15px;
+    margin: 5px 90px;
+    color: white;
+    
+}
